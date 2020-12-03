@@ -303,7 +303,7 @@ footer .redes .github:hover{
 			text-align: center;
 		}
 
-		.main .trabajos .contenedor .trabajo{
+		.main .trabajos .contenedor-trabajos .trabajo{
 			width: 46%;
 		}
 
@@ -316,9 +316,9 @@ footer .redes .github:hover{
 			text-align: center;
 		}
 
-		.main .trabajos .contenedor .trabajo{
-			width: 49%;
-			justify-content: space-between;
+		.main .trabajos .contenedor-trabajos .trabajo{
+
+			width: 100%
 		}
 
 		header .menu a{
