@@ -156,7 +156,7 @@ header .contenedor-texto .texto .profession{
 }
 
 .main .trabajos .contenedor-trabajos .trabajo .thumb{
-	width: 100%
+	width: 100%;
 	margin-bottom:10px;
 }
 
@@ -317,20 +317,27 @@ footer .redes .github:hover{
 		}
 
 		.main .trabajos .contenedor .trabajo{
-			width: 48%;
+			width: 40%;
 		}
 	
 		.main .trabajos .contenedor-trabajos {
 		display: flex;
 		flex-direction: row;
 		flex-wrap: wrap;
-		justify-content: space-around;
+		justify-content: space-between;
 		}
 	
 		header .menu a{
 
 			margin-bottom: 20px;
 
+		}
+	
+		.main .trabajos .contenedor-trabajos .trabajo .thumb img{
+		width: 100%;
+		vertical-align: top;
+		height: 100px;
+		border-radius: 5px;
 		}
 }
 
