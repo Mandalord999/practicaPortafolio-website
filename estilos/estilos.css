@@ -310,7 +310,7 @@ footer .redes .github:hover{
 
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 400px) {
 
 		header .menu {
 			text-align: center;
@@ -325,8 +325,13 @@ footer .redes .github:hover{
 		flex-direction: row;
 		flex-wrap: wrap;
 		justify-content: space-around;
-}	
+		}
+	
+		header .menu a{
 
+			margin-bottom: 20px;
+
+		}
 }
 
 
