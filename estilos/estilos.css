@@ -310,14 +310,14 @@ footer .redes .github:hover{
 
 }
 
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 500px) {
 
 		header .menu {
 			text-align: center;
 		}
 
 		.main .trabajos .contenedor .trabajo{
-			width: 48%;
+			width: 40%;
 		}
 
 }
