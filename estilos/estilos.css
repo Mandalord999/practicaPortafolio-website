@@ -317,8 +317,15 @@ footer .redes .github:hover{
 		}
 
 		.main .trabajos .contenedor .trabajo{
-			width: 20%;
+			width: 40%;
 		}
+
+		.main .trabajos .contenedor-trabajos {
+		display: flex;
+		flex-direction: row;
+		flex-wrap: wrap;
+		justify-content: space-around;
+}	
 
 }
 
