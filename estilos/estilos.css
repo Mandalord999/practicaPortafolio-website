@@ -318,7 +318,7 @@ footer .redes .github:hover{
 
 		.main .trabajos .contenedor .trabajo{
 			width: 49%;
-			justify-content: space-around;
+			justify-content: space-between;
 		}
 
 		header .menu a{
