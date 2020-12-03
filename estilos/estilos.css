@@ -320,12 +320,11 @@ footer .redes .github:hover{
 			width: 40%;
 		}
 
-		.main .trabajos .contenedor-trabajos {
-		display: flex;
-		flex-direction: row;
-		flex-wrap: wrap;
-		justify-content: space-around;
-}	
+		header .menu a{
+
+			margin-bottom: 20px;
+
+		}	
 
 }
 
